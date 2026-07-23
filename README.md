@@ -1,4 +1,4 @@
-# TMW Center Data Task — Baseline/Endline Survey Cleaning & Analysis (Stata)
+# Baseline/Endline Survey Cleaning & Analysis (Stata)
 
 **Author:** Gunjan Sharma
 **Date:** Feb 18, 2026
