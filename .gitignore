@@ -1,0 +1,14 @@
+# Raw data
+data/
+*.xlsx
+*.xls
+
+# Generated Stata data/output
+clean/
+output/
+logs/
+*.dta
+*.log
+
+# OS
+.DS_Store
